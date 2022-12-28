@@ -1,4 +1,4 @@
-#Eqn solver with two unknown variables
+#Eqn solver with two unknown variable
 def xy(a):
     h=""
     for i in a:
